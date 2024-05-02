@@ -1,0 +1,21 @@
+mongodb+srv://agnescybilatsuah:fKgHmKg44MH6qziK@cluster0.ll6fhmf.mongodb.net/
+v2mj7JXGuY7VGw1MVHoEimXfWfXJ9InSPIs41Wx2JAKrqRFwWPJ3XBWgDkmo8pUj
+
+
+
+Restaurant Details Page: Create a new page that displays more information about a restaurant when its name or image is clicked.
+
+Create Restaurant: Add a form that allows users to add new restaurants.
+
+Update Restaurant: Add an option to update the details of an existing restaurant.
+
+Delete Restaurant: Add an option to delete a restaurant.
+
+Styling: Use CSS or a UI library like Material-UI or Bootstrap to improve the look of your application.
+
+Routing: Use a library like React Router to add multiple pages to your application.
+
+State Management: If your application starts to get complex, you might want to use a state management library like Redux or MobX.
+
+Authentication: If you want to restrict access to certain features, you can add user authentication.
+
